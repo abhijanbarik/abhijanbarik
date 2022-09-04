@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhijanbarik22@gmail.com**
 
-- ⚡ Personal Fun fact **My favorite hobby is riding bike & goin for a long ride every weekend.**
+- ⚡ Personal Fun fact **My favorite hobby is riding bike & going for a long ride every weekend.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
