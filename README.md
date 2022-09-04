@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@hcoddicted" target="blank"><img src="https://img.shields.io/twitter/follow/@hcoddicted?logo=twitter&style=for-the-badge" alt="@hcoddicted" /></a> </p>
 
-- 🔭 I’m currently working on **Tata Consultancy Services**
+- 🔭 I’m currently working at **Tata Consultancy Services**
 
 - 🌱 I’m currently in Advanced learning **Data Structures & Algorithms, OOPs, Java & Cloud advance concepts.**
 
