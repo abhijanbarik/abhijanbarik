@@ -11,7 +11,7 @@
 
 - 🌱 I’m in Advanced learning of **Data Structures & Algorithms, OOPs, Java & Cloud advance concepts.**
 
-- 🤝 I’m learning from scratch **Frontend Development(MERN)**
+- 🤝 Developing new skills in **Frontend Development(MERN)**
 
 - 💬 Ask me about **DSA, JVM related programming, Azure cloud & Backend development.**
 
