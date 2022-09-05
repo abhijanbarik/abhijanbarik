@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at **Tata Consultancy Services**
 
-- 🌱 I’m currently in Advanced learning **Data Structures & Algorithms, OOPs, Java & Cloud advance concepts.**
+- 🌱 I’m in Advanced learning of **Data Structures & Algorithms, OOPs, Java & Cloud advance concepts.**
 
 - 🤝 I’m learning from scratch **Frontend Development(MERN)**
 
