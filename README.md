@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@hcoddicted" target="blank"><img src="https://img.shields.io/twitter/follow/@hcoddicted?logo=twitter&style=for-the-badge" alt="@hcoddicted" /></a> </p>
 
-- 🔭 I’m currently working at **Tata Consultancy Services**
+- 🔭 I’m currently working at **EY as Software Engineer**
 
 - 🌱 I’m in Advanced learning of **Data Structures & Algorithms, OOPs, Java, LLD, HLD & Cloud advance concepts.**
 
