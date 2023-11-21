@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@hcoddicted" target="blank"><img src="https://img.shields.io/twitter/follow/@hcoddicted?logo=twitter&style=for-the-badge" alt="@hcoddicted" /></a> </p>
 
-- 🔭 I’m a Software Engineer
+- 🔭 Software Engineer by trade.
 
-- 📚 I'm a Microsoft Certified Trainer. 
+- 📚 Microsoft Certified Trainer by choice. 
 
 - 🌱 I've Advanced knowledge in **Data Structures and algorithms, OOPs, Java, MERN, LLD, HLD, and cloud concepts.**
 
