@@ -13,7 +13,7 @@
 
 - 🌱 I've Advanced knowledge in **Data Structures and algorithms, OOPs, Java, MERN, LLD, HLD, and cloud concepts.**
 
-- 🤝 Developing new skills in **Machine Learning and AI**
+- 🤝 Developing new skills -> **Machine Learning and AI**
 
 - 💬 Ask me about **DSA, JVM related programming, Cloud services & web development.**
 
