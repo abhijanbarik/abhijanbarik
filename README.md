@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@hcoddicted" target="blank"><img src="https://img.shields.io/twitter/follow/@hcoddicted?logo=twitter&style=for-the-badge" alt="@hcoddicted" /></a> </p>
 
-- 🔭 Software Engineer by trade.
+- 🔭 Full-Stack Developer by trade.
 
 - 📚 Microsoft Certified Trainer by choice. 
 
