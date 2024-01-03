@@ -15,7 +15,7 @@
 
 - 🤝 Developing new skills -> **Machine Learning and AI**
 
-- 💬 Ask me about **DSA, JVM related programming, Cloud services & web development.**
+- 💬 Ask me about **DSA, JVM related programming, Cloud services & Web-Development.**
 
 - 📫 How to reach me **abhijanbarik22@gmail.com**
 
