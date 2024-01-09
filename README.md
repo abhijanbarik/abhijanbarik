@@ -36,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhijanbarik&show_icons=true&locale=en&layout=compact" alt="abhijanbarik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijanbarik&show_icons=true&locale=en" alt="abhijanbarik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijanbarik&" alt="abhijanbarik" /></p>
