@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijanbarik&label=Profile%20views&color=0e75b6&style=flat" alt="abhijanbarik" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@hcoddicted" target="blank"><img src="https://img.shields.io/twitter/follow/@hcoddicted?logo=twitter&style=for-the-badge" alt="@hcoddicted" /></a> </p>
-
 - 🔭 Full-Stack Developer by trade.
 
 - 📚 Microsoft Certified Trainer by choice. 
