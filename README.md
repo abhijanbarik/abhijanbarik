@@ -7,7 +7,7 @@
 
 - 📚 Microsoft Certified Trainer by choice. 
 
-- 🌱 I've Advanced knowledge in **Data Structures and algorithms, OOPs, Java, MERN, System Design, and Cloud concepts.**
+- 🌱 I've Advanced knowledge in **Data Structures and algorithms, OOPs, Java, MERN, DevOps, System Design, and Cloud concepts.**
 
 - 🤝 Developing new skills -> **Machine Learning and AI**
 
