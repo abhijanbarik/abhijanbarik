@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Abhijan Barik</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<h3 align="center">A passionate Full-Stack Developer and DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 Full-Stack Developer by trade.
 
 - 📚 Microsoft Certified Trainer by choice. 
 
-- 🌱 I've Advanced knowledge in **Data Structures and algorithms, OOPs, Java, MERN, DevOps, System Design, and Cloud concepts.**
+- 🌱 I've Advanced knowledge in **Data Structures and algorithms, OOPs, Java, DevOps, MERN, System Design, and Cloud concepts.**
 
 - 🤝 Developing new skills -> **Machine Learning and AI**
 
