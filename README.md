@@ -5,7 +5,7 @@
 
 - 🔭 Portfolio website -> **https://rb.gy/hz0zra**.
 
-- 📚 Microsoft Certified Trainer by choice. 
+- 📚 **Microsoft Certified Trainer** by choice. 
 
 - 🌱 I've Advanced knowledge in **Data Structures and algorithms, OOPs, Java, DevOps, MERN, System Design, and Cloud concepts.**
 
