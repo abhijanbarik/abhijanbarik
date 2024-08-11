@@ -17,6 +17,8 @@
 
 - ⚡ Personal Fun fact **My favorite hobby is Teaching, Mentoring, Riding bike, and going for a long ride every weekend.**
 
+- Buy me coffee **https://buymeacoffee.com/abhijanbarik**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhijanbarik22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhijanbarik22" height="30" width="40" /></a>
